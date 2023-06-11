@@ -1,5 +1,6 @@
 # Data-Structures-in-C
 Implementation of Data Structures all Data Structures using <b><i>C Programming Language</b></i>.
+<pre>
 This repository includes implementation of
   List
   Linked_list
@@ -11,5 +12,6 @@ This repository includes implementation of
   Postfix expression evalution
   All searching algorithms
   All Sorting algorithms
+</pre>
   
   
