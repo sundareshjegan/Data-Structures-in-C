@@ -1,7 +1,7 @@
 # Data-Structures-in-C
-Implementation of Data Structures all Data Structures using <b><i>C Programming Language</b></i>.
+Implementation of all Data Structures using <b><i>C Programming Language</b></i>.
 <pre>
-This repository includes implementation of
+This repository includes implementation of :
   List
   Linked_list
   Stack
